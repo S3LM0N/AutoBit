@@ -2,7 +2,7 @@
  
 <img src="https://simpleicons.org/icons/bitcoin.svg" width="300" height="300">
 
-룰 기반의 비트코인 자동매매 단타 코드입니다.
+비트코인 자동매매 단타 코드입니다.
 
 
 ## Getting Started
@@ -33,4 +33,4 @@ This project is licensed under the MIT License
 
 * Thanks to https://www.nanumtrading.com/
 
-* 본 프로젝트는 알고리즘 설계 과정(PR, 성능평가 etc.)을 연습해보기 위한 토이 프로젝트처럼 사용할 수 있습니다.
+* 본 프로젝트는 알고리즘 설계 과정(PR, 성능평가, 복잡도 etc.)을 연습해보기 위한 토이 프로젝트처럼 사용할 수 있습니다.
